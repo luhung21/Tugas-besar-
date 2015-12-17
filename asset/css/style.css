@@ -1,0 +1,61 @@
+	body{
+		font-family: arial;
+		font-size: 14px;
+		background-color: #000000;
+		
+	}
+	#canvas{
+		width: 300px;
+		margin: 0 auto;
+		border: 1px solid silver;
+		border-radius: 4px;
+		box-shadow: 0 0 4px 2px #6b6b6d;
+		padding: 2px;
+	}
+
+	#utama{
+		width: 300px;
+		margin: 0 auto;
+	}
+
+	#judul2{
+		padding: 15px;
+		text-align: center;
+		color: #fff;
+		font-size: 20px;
+		text-shadow: 5px 5px 20px #009CC2;
+	}
+
+	#judul{
+		padding: 15px;
+		text-align: center;
+		color: #fff;
+		font-size: 20px;
+		background-color: #362ed2;
+		border-bottom: 3px solid #2219d0;
+	}
+
+	#inputan{
+		background-color: #70737b;
+		padding: 20px;
+	}
+
+	input{
+		padding: 10px;
+		border: 0;
+	}
+
+	.lg{
+		width: 260px;
+	}
+
+	.btn{
+		background-color: #362ed2;
+		color: #fff;
+		width: 260px;	
+	}
+
+	.btn:hover{
+		background-color: #110a9d;
+		cursor: pointer;
+	}
