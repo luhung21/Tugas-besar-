@@ -95,10 +95,10 @@ class kategoriControllerTest extends PHPUnit_Framework_TestCase
      */
     public function testInsert()
     {
-        // TODO Auto-generated kategoriControllerTest->testInsert()
-        $this->markTestIncomplete("insert test not implemented");
         
-        $this->kategoriController->insert(/* parameters */);
+        $result=$this->markTestIncomplete("Arios");
+        
+        $result->$this->kategoriController->insert(10,$result);
     }
 
     /**
